@@ -1,7 +1,7 @@
 # Maximum Depth Of Binary Tree
 
 >**Note :**
->1. This problem can be found at [Leetcode ⧉](https://leetcode.com/problems/two-sum/)
+>1. This problem can be found at [GeeksForGeeks ⧉](https://practice.geeksforgeeks.org/problems/maximum-depth-of-binary-tree/1)
 >2. This problem is the *Problem Of The Day* for `28 June 2023`
 
 <!-- Badges -->
